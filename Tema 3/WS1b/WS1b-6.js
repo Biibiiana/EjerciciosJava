@@ -1,0 +1,1 @@
+let  iAm = (nom, edad) => console.log("Hello my name is " + nom + "and i'm" + edad);
