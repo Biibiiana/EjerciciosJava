@@ -1,0 +1,16 @@
+button{
+    background-color: white;
+    color: #C1D72F;
+    width: 2em;
+    height: 2em;
+
+}
+body{
+    background-color: #C1D72F;
+}
+#newGame{
+    background-color: white;
+    color: #2f48d7;
+    height: 2em;
+    width: 9em;
+}

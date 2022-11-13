@@ -1,0 +1,27 @@
+img {
+    width: 10rem;
+    height: 14rem;
+    margin: 1rem;
+}
+
+#datos {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#datos div {
+    text-align: center;
+}
+
+#juego{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#partida{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
